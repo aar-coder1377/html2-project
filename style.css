@@ -1,0 +1,13 @@
+.breeds{
+    background-color: darkkhaki;
+    border: solid;
+    border-color: darksalmon;
+    display: flex;
+    justify-content: space-between;
+    }
+
+    .item{
+          display: flex;
+          flex-wrap: wrap;
+          justify-content: space-evenly;
+    }
